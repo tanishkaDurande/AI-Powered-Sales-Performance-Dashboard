@@ -53,6 +53,7 @@ The SQL script includes:
 
 ---
 
+
 ## Dashboard
 
 ### KPIs
@@ -76,6 +77,9 @@ The SQL script includes:
 - Lead Source
 
 ---
+## Dashboard Preview
+
+![Dashboard](images/dashboard.png)
 
 ## Project Structure
 
