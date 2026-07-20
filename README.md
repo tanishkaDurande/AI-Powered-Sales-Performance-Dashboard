@@ -1,5 +1,7 @@
 # AI-Powered Sales Performance Dashboard
+![Cover](images/cover_page.jpeg)
 
+---
 ## Project Overview
 
 This project analyzes sales performance data using PostgreSQL and visualizes key business insights with Tableau.
