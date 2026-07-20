@@ -1,5 +1,5 @@
 # AI-Powered Sales Performance Dashboard
-![Cover](images/cover_page.jpeg)
+![Cover](cover_page.jpeg)
 
 ---
 ## Project Overview
