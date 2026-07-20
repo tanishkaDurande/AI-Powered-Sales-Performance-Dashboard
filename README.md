@@ -81,10 +81,15 @@ The SQL script includes:
 
 AI-Powered-Sales-Performance-Dashboard/
 │
+
 ├── data/
+
 ├── sql/
+
 ├── dashboard/
+
 ├── images/
+
 └── README.md
 
 
