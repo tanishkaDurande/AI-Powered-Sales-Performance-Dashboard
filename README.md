@@ -80,6 +80,7 @@ The SQL script includes:
 ## Project Structure
 
 AI-Powered-Sales-Performance-Dashboard/
+
 │
 
 ├── data/
