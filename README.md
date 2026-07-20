@@ -77,10 +77,6 @@ The SQL script includes:
 
 ---
 
-## Dashboard Preview
-
-![Dashboard](images/dashboard.png)
-
 ## Project Structure
 
 AI-Powered-Sales-Performance-Dashboard/
