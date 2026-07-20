@@ -77,9 +77,11 @@ The SQL script includes:
 - Lead Source
 
 ---
-## Dashboard Preview
+## Dashboard preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
+
+---
 
 ## Project Structure
 
